@@ -38,7 +38,7 @@ I made this game from Scratch to review my OOP concepts.
 
 ## Contribute
 
-Let people know how they can contribute into your project. A [contributing guideline](https://github.com/zulip/zulip-electron/blob/master/CONTRIBUTING.md) will be a big plus.
+
 
 ## Credits
 Credit to Angela Yu (Udemy course) for giving me the idea of the project.
