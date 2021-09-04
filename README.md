@@ -15,8 +15,6 @@ I made this game from Scratch to review my OOP concepts.
 
 
 ## Tech/framework used
-Ex. -
-
 <b>Built with</b>
 - [Python Turtle module](https://docs.python.org/3/library/turtle.html)
 
